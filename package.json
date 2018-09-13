@@ -1,0 +1,20 @@
+{
+  "name": "teamlck.github.io",
+  "version": "1.0.0",
+  "description": "The wep page for teamlck",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "./deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teamlck/teamlck.github.io"
+  },
+  "author": "Heebum Kwak <heebum.kwak@linecorp.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  }
+}
