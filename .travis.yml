@@ -16,7 +16,7 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
-  script: "echo 'teamlck.com' > CNAME"
+  script: "cd docs/.vuepress/dist && echo 'teamlck.com' > CNAME && cd -"
   repo: teamlck/teamlck.github.io
   target-branch: master
   local-dir: docs/.vuepress/dist
