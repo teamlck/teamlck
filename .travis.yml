@@ -17,6 +17,7 @@ deploy:
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
   repo: teamlck/teamlck.github.io
+  target-branch: master
   local-dir: docs/.vuepress/dist
   on:
     branch: master
