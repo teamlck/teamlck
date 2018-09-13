@@ -1,6 +1,6 @@
 # Teamlck
 
-https://teamlck.github.io/teamlck/
+https://teamlck.com
 
 ## How to write something
 

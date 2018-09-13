@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/teamlck/',
+  base: '/',
   locales: {
     '/': {
       lang: 'ko-KR',
