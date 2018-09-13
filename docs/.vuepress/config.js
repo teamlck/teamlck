@@ -16,7 +16,7 @@ module.exports = {
     lineNumbers: true
   },
   themeConfig: {
-    repo: 'teamlck/teamlck.github.io',
+    repo: 'teamlck/teamlck',
     editLinks: true,
     locales: {
       '/': {

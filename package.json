@@ -1,5 +1,5 @@
 {
-  "name": "teamlck.github.io",
+  "name": "teamlck",
   "version": "1.0.0",
   "description": "The wep page for teamlck",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/teamlck/teamlck.github.io"
+    "url": "https://github.com/teamlck/teamlck"
   },
   "author": "Heebum Kwak <heebum.kwak@linecorp.com>",
   "license": "ISC",
