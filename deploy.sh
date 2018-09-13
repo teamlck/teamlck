@@ -16,7 +16,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/teamlck/teamlck.github.io master
+git push -f https://norux:d7845cfd2c430cb8231a574dfb25ee09325bdcaa@github.com/teamlck/teamlck.github.io master
 
 cd -
 
