@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/teamlck/',
   locales: {
     '/': {
       lang: 'ko-KR',
@@ -15,6 +16,7 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
+  theme: 'vue',
   themeConfig: {
     repo: 'teamlck/teamlck',
     editLinks: true,

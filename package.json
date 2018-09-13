@@ -15,6 +15,7 @@
   "author": "Heebum Kwak <heebum.kwak@linecorp.com>",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "^0.14.2"
+    "vuepress": "^0.14.2",
+    "vuepress-theme-vue": "^1.1.0"
   }
 }
