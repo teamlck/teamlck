@@ -10,5 +10,27 @@ sidebarDepth: 2
 Writing `smart-analytics` guide in English
 
 
-## smart-analytics
-Let's start guide of `smart-analytics`
+## Install & Run
+Let's start how to install and run
+
+### Install packages
+```bash
+$ npm install
+```
+
+### Run mock server for collecting data
+```bash
+$ npm run server
+```
+
+### Run web server (using webpack-dev-server)
+```bash
+$ npm run client
+```
+or
+```bash
+$ npm start
+```
+
+### Check data transfer status
+Connect http://localhost:8080 and open browser debug console
