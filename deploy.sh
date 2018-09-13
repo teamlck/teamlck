@@ -14,7 +14,7 @@ echo 'teamlck.com' > CNAME
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'Deploy manually'
 
 git push -f https://github.com/teamlck/teamlck.github.io master
 
