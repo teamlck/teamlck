@@ -20,6 +20,7 @@ module.exports = {
   themeConfig: {
     repo: 'teamlck/teamlck',
     editLinks: true,
+    docsDir: 'docs',
     locales: {
       '/': {
         label: 'Korean',
