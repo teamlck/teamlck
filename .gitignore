@@ -1,6 +1,6 @@
 # Result of build
 node_modules/
-docs/.vuepress/dist/
+dist
 
 # Log files
 npm-debug.log*
