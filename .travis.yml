@@ -12,11 +12,11 @@ script:
 - "npm run build"
 
 deploy:
-  local-dir: docs/.vuepress/dist
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
+  repo: teamlck/teamlck.github.io
+  local-dir: docs/.vuepress/dist
   on:
-    repo: teamlck/teamlck.github.io
     branch: master
