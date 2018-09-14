@@ -49,6 +49,6 @@ If applied, this commit will handle pinch gesture for mobile
 
 ## 멤버 구성원
 
-* norux
+* [norux](https://github.com/norux)
 * shaamy
-* hyoj
+* [hyoj](https://github.com/hyoj)
