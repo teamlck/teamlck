@@ -2,6 +2,8 @@
 
 https://teamlck.com
 
+[![Build Status](https://travis-ci.org/teamlck/teamlck.svg?branch=master)](https://travis-ci.org/teamlck/teamlck)
+
 ## How to write something
 
 **Writing documents**
