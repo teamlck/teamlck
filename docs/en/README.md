@@ -9,7 +9,7 @@ We are the team that write a code something everyday. The goal is to write eithe
 In this chapter, how to contribute to Teamlck will be instroduced.
 
 ### Writing commit message
-Please write all commit message in english. If you have trouble writing in english, you should use easy sentense. Never spend time of writing message more than programming. You write only 1 line, title message.
+Please write all commit message in english. If you have trouble writing in english, you should use easy sentense. Never spend time of writing message more than programming. You can write only 1 line, title message likes following messages.
 
 ```text
 Fix mouse scoll bug
@@ -34,7 +34,7 @@ Handle pinch gesture for mobile
 Merge branch 'feature/infinite-scroll'
 ```
 
-If you want to know whether is good commit message, put your message behind of `If applied, this commit will __________`
+If you want to know whether your commit message is good, put your message behind of `If applied, this commit will __________`
 
 ```text
 If applied, this commit will merge branch 'feature/infinite-scroll'
