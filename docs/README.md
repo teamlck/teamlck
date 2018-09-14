@@ -41,7 +41,7 @@ If applied, this commit will merge branch 'feature/infinite-scroll'
 If applied, this commit will handle pinch gesture for mobile
 ```
 
-* 참조) https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/
+* 참조) [Git 커밋메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message)
 
 ### 문서 작성
 모든 문서는 한글로 작성합니다. 먼저 한글로 작성한 다음에 시간적 여유가 있을 때, 영문 문서로 번역합니다.
