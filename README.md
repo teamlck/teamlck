@@ -7,9 +7,11 @@ https://teamlck.com
 ## How to write something
 
 **Writing documents**
+
 Write documents in `docs` with markdown format
 
 **Adding navigator**
+
 To add navbar, modify `docs/.vuepress/config.js`
 
 Find `nav` and add it. then just done.
