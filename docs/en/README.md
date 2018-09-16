@@ -43,7 +43,7 @@ If applied, this commit will handle pinch gesture for mobile
 
 * Reference) [How to write a git commit message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message)
 
-### Writing documents
+### How to write documents
 All documents write in korean first. After that, those translate to english.
 
 ## Member
