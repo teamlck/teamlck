@@ -26,6 +26,7 @@ module.exports = {
         label: 'Korean',
         selectText: 'Languages',
         editLinkText: 'Edit this page on GitHub',
+        lastUpdated: 'Last updated',
         nav: [
           { text: 'Home', link: '/' },
           { text: 'SmartAnalytics', link: '/smart-analytics/' }
@@ -38,6 +39,7 @@ module.exports = {
         label: 'English',
         selectText: 'Languages',
         editLinkText: 'Edit this page on GitHub',
+        lastUpdated: 'Last updated',
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'SmartAnalytics', link: '/en/smart-analytics/' }
