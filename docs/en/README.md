@@ -49,5 +49,5 @@ All documents write in korean first. After that, those translate to english.
 ## Member
 
 * [norux](https://github.com/norux)
-* shaamy
+* [shaamy](https://github.com/LeeSangJun)
 * [hyoj](https://github.com/hyoj)
