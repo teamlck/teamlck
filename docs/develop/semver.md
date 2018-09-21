@@ -5,7 +5,7 @@ sidebarDepth: 2
 # 시맨틱 버전관리 2.0.0
 
 요약
--------
+---
 
 버전번호 MAJOR.MINOR.PATCH 는 다음 상황에 증가시킵니다.
 
@@ -13,10 +13,10 @@ sidebarDepth: 2
 2. MINOR 버전: 하위 호환성이 보장되는 내에서 기능이 추가될 때,
 3. PATCH 버전: 하위 호환성 내에서 버그를 고쳤을 때,
  
-MAJOR.MINOR.PATCH 포맷을 확장해서 빌드 번호나 배포전의 라벨을 붙일 수도 있다.
+MAJOR.MINOR.PATCH 포맷을 확장해서 빌드 번호나 배포전의 라벨을 붙일 수도 있습니다.
 
 소개
-------------
+---
 
 In the world of software management there exists a dreaded place called
 "dependency hell." The bigger your system grows and the more packages you
@@ -324,16 +324,14 @@ name and the semantic version is "1.2.3".
 About
 -----
 
-The Semantic Versioning specification is authored by [Tom
-Preston-Werner](http://tom.preston-werner.com), inventor of Gravatar and
-cofounder of GitHub.
+시맨틱 버전관리 명세는 [Tom Preston-Werner](http://tom.preston-werner.com)이 작성하였습니다. 
+그라바타의 발명자는 GitHub의 공동 참여자들입니다.
 
-If you'd like to leave feedback, please [open an issue on
-GitHub](https://github.com/mojombo/semver/issues).
+피드백이 있으시면, [GitHub 이슈](https://github.com/mojombo/semver/issues)로 남겨주세요.
 
 
-License
--------
+라이센스
+------
 
 Creative Commons - CC BY 3.0
 http://creativecommons.org/licenses/by/3.0/
