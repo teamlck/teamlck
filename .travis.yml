@@ -21,3 +21,9 @@ deploy:
   local-dir: docs/.vuepress/dist
   on:
     branch: master
+
+notifications:
+  slack:
+    rooms:
+    - teamlck:xi2Cxwj6ryvcaGKZFjfywbkR#travis-ci
+    on_success: always
