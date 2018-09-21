@@ -8,7 +8,7 @@ sidebarDepth: 2
 [smart-analytics repository](https://github.com/teamlck/smart-analytics)
 
 ## 설치 및 실행 방법
-설치 및 실행방법을 설명한다.
+설치 및 실행방법을 설명합니다.
 
 ### 패키지 설치
 ```bash
@@ -30,4 +30,4 @@ $ npm start
 ```
 
 ### 데이터 전송 상태 확인
-http://localhost:8080 접속하여 브라우저 콘솔 확인
+http://localhost:8080 접속하여 브라우저 콘솔을 확인합니다.
