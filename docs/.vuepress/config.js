@@ -29,7 +29,8 @@ module.exports = {
         lastUpdated: 'Last updated',
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'SmartAnalytics', link: '/smart-analytics/' }
+          { text: 'SmartAnalytics', link: '/smart-analytics/' },
+          { text: 'Develop', link: '/develop/' }
         ],
         sidebar: {
           '/': genSidebarHome('teamlck')
@@ -42,7 +43,8 @@ module.exports = {
         lastUpdated: 'Last updated',
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'SmartAnalytics', link: '/en/smart-analytics/' }
+          { text: 'SmartAnalytics', link: '/en/smart-analytics/' },
+          { text: 'Develop', link: '/en/develop/' }
         ],
         sidebar: {
           '/en/': genSidebarHome('teamlck')
