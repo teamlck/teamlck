@@ -232,23 +232,18 @@ them.
 FAQ
 ---
 
-### How should I deal with revisions in the 0.y.z initial development phase?
+### 최초 개발 단계에서는 0.y.z의 버전을 어떻게 관리해야 할까요?
+처음으로 개발되어 릴리즈되는 버전은 0.1.0이 되는 것이 제일 기본입니다. 그리고 후속 릴리즈 단계마다 마이너 버전이 증가됩니다.
 
-The simplest thing to do is start your initial development release at 0.1.0
-and then increment the minor version for each subsequent release.
+### 1.0.0은 언제 릴리즈 하면 되나요?
 
-### How do I know when to release 1.0.0?
+소프트웨어가 상용으로 사용되고 있으면 이미 1.0.0 입니다. 혹은 유저들이 의존성을 갖고 사용하는 안정된 API 가 있다면 그것도 1.0.0 입니다.
+또 하위 호환성을 걱정하지 않아도 된다면 그것도 1.0.0 입니다.
 
-If your software is being used in production, it should probably already be
-1.0.0. If you have a stable API on which users have come to depend, you should
-be 1.0.0. If you're worrying a lot about backwards compatibility, you should
-probably already be 1.0.0.
+### 시맨틱 버전관리가 빠른 개발과 반복을 방해하지는 않을까요?
 
-### Doesn't this discourage rapid development and fast iteration?
-
-Major version zero is all about rapid development. If you're changing the API
-every day you should either still be in version 0.y.z or on a separate
-development branch working on the next major version.
+빠른 개발 단계에서는 메이저 버전을 0으로 해야 합니다. 만약 API가 매일 바뀐다면, 0.y.z의 버전을 사용해야 합니다. 또는 다음번의 메이저 버전을
+별도의 개발 브랜치로 분리하는 방법도 있습니다.
 
 ### If even the tiniest backwards incompatible changes to the public API require a major version bump, won't I end up at version 42.0.0 very rapidly?
 
