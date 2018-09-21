@@ -18,7 +18,7 @@ We are the team that write a code something everyday. The goal is to write eithe
   <div class="feature">
     <h2>RaspberryPi</h2>
     <p>This project is relate on raspberry pi. The first goal is to make game machine using it.</p>
-    <div class="link"><a href="/respberrypi/">Getting start ></a></div>
+    <div class="link"><a href="/raspberrypi/">Getting start ></a></div>
   </div>
   <div class="feature">
     <h2>Develop</h2>

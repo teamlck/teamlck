@@ -18,7 +18,7 @@ sidebarDepth: 2
   <div class="feature">
     <h2>RaspberryPi</h2>
     <p>라즈베리파이와 관련된 프로젝트입니다. 첫 번째로 라즈베리파이로 게임기를 만듭니다.</p>
-    <div class="link"><a href="/respberrypi/">바로가기 ></a></div>
+    <div class="link"><a href="/raspberrypi/">바로가기 ></a></div>
   </div>
   <div class="feature">
     <h2>Develop</h2>
