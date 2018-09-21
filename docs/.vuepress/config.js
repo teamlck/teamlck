@@ -70,8 +70,7 @@ function genSidebarHome (title) {
       title,
       collapsable: false,
       children: [
-        '',
-        'another'
+        'contribute'
       ]
     }
   ]
