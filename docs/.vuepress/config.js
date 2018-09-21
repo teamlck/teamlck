@@ -29,10 +29,15 @@ module.exports = {
         lastUpdated: 'Last updated',
         nav: [
           { text: 'Home', link: '/' },
+          { text: 'Develop', link: '/develop/' },
           { text: 'SmartAnalytics', link: '/smart-analytics/' },
-          { text: 'Develop', link: '/develop/' }
+          { text: 'RaspberryPi', link: '/raspberrypi/' }
         ],
         sidebar: {
+          '/develop/': genSidebarDevelop('Develop'),
+          '/raspberrypi/': genSidebarRaspberrypi('Raspberry Pi'),
+
+          // fallback
           '/': genSidebarHome('teamlck')
         }
       },
@@ -43,17 +48,21 @@ module.exports = {
         lastUpdated: 'Last updated',
         nav: [
           { text: 'Home', link: '/en/' },
+          { text: 'Develop', link: '/en/develop/' },
           { text: 'SmartAnalytics', link: '/en/smart-analytics/' },
-          { text: 'Develop', link: '/en/develop/' }
+          { text: 'RaspberryPi', link: '/en/raspberrypi/' }
         ],
         sidebar: {
+          '/en/develop/': genSidebarDevelop('Develop'),
+          '/en/raspberrypi/': genSidebarRaspberrypi('Raspberry Pi'),
+
+          // fallback
           '/en/': genSidebarHome('teamlck')
         }
       }
     }
   }
 }
-
 
 function genSidebarHome (title) {
   return [
@@ -63,6 +72,31 @@ function genSidebarHome (title) {
       children: [
         '',
         'another'
+      ]
+    }
+  ]
+}
+
+function genSidebarDevelop (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        '',
+        'semver'
+      ]
+    }
+  ]
+}
+
+function genSidebarRaspberrypi (title) {
+  return [
+    {
+      title,
+      collapsable: false,
+      children: [
+        ''
       ]
     }
   ]

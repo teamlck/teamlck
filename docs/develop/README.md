@@ -1,5 +1,4 @@
 ---
-sidebar: auto
 sidebarDepth: 2
 ---
 
@@ -27,4 +26,4 @@ $ npm publish --access=public
 ```
 
 위 명령어만 치면 npm에 배포가 된다. 단, 같은 버전은 덮어쓰기가 안되므로 `package.json`내의 정교한 버전관리가 필요하다.
-버전관리는 [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html)을 따른다.
+버전관리는 [Semantic Versioning 2.0.0](/en/develop/semver)을 따른다.
