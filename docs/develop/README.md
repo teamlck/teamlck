@@ -30,4 +30,4 @@ $ npm publish --access=public
 
 그리고 이 명령어만 치면 npm 에 배포가 됩니다. 
 단, 같은 버전은 덮어쓰기가 안되므로 `package.json` 내의 정교한 버전관리가 필요합니다. 
-버전관리는 [시맨틱 버전 관리 2.0.0](https://semver.org/lang/ko/)을 따릅니다.
+버전관리는 [시맨틱 버전 관리 2.0.0](https://semver.org/lang/ko/spec/v2.0.0.html)을 따릅니다.
