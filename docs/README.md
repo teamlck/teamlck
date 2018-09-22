@@ -1,12 +1,13 @@
 ---
 home: true
+heroImage: /teamlck-logo.png
 actionText: Get Started →
 actionLink: contribute.html
 footer: MIT Licensed | Copyright © 2018-present teamlck
 sidebarDepth: 2
 ---
 
-# Teamlck
+# About
 매일 한 줄씩 코딩하는 모임입니다. 적어도 매일 10분씩 코딩/메뉴얼을 작성하는 것이 목표입니다.
 
 <div class="features">

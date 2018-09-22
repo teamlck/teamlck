@@ -1,12 +1,13 @@
 ---
 home: true
+heroImage: /teamlck-logo.png
 actionText: Get Started →
 actionLink: contribute.html
 footer: MIT Licensed | Copyright © 2018-present teamlck
 sidebarDepth: 2
 ---
 
-# Teamlck
+# About
 We are the team that write a code something everyday. The goal is to write either programming or manual page at least 10 minutes a day.
 
 <div class="features">
