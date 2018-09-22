@@ -101,8 +101,7 @@ function genSidebarDevelop (title) {
       title,
       collapsable: false,
       children: [
-        '',
-        'semver'
+        ''
       ]
     }
   ]
