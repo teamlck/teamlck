@@ -1,3 +1,6 @@
+# macOS thumbnail
+.DS_Store
+
 # Result of build
 node_modules/
 dist
